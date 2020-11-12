@@ -1,0 +1,12 @@
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\bin\Debug\netcoreapp3.1\ECommerce.Data.DAL.deps.json
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\bin\Debug\netcoreapp3.1\ECommerce.Data.DAL.dll
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\obj\Debug\netcoreapp3.1\ECommerce.Data.DAL.csprojAssemblyReference.cache
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\obj\Debug\netcoreapp3.1\ECommerce.Data.DAL.AssemblyInfoInputs.cache
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\obj\Debug\netcoreapp3.1\ECommerce.Data.DAL.AssemblyInfo.cs
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\bin\Debug\netcoreapp3.1\ECommerce.Data.Domain.dll
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\bin\Debug\netcoreapp3.1\ECommerce.Data.DAL.pdb
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\bin\Debug\netcoreapp3.1\ECommerce.Data.Domain.pdb
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\obj\Debug\netcoreapp3.1\ECommerce.Data.DAL.csproj.CopyComplete
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\obj\Debug\netcoreapp3.1\ECommerce.Data.DAL.dll
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\obj\Debug\netcoreapp3.1\ECommerce.Data.DAL.pdb
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.DAL\obj\Debug\netcoreapp3.1\ECommerce.Data.DAL.csproj.CoreCompileInputs.cache

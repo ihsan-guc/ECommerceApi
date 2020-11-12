@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eUJzAeZ+qy4DEpoIVQRE+vQ9JtKip1xoPleP9QnjE/W2jVeBO4Y9ne/lfETNvesNS/Vy8rmw3aGIfpqo/O0qzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EysanGuc\\source\\repos\\ECommerce\\ECommerce.Data.Domain\\ECommerce.Data.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EysanGuc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\EysanGuc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
