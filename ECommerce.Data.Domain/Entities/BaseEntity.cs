@@ -10,7 +10,7 @@ namespace ECommerce.Data.Domain.Entities
     {
         public T Id { get; set; }
     }
-    public class BaseGuidEntity : BaseEntity<Guid>
+    public class BaseGuidEntity : BaseEntity<int>
     {
 
     }

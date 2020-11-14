@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "iOUEof+ZILk2m31QYmo1dzXs0RDq5OMcgxVGgjj1eq70H/8A7TmIyKNswCz3L2vPIgfC4pzjJyivs2ez9/rAuA==",
+  "dgSpecHash": "cRy6ZNYFyMkMeQaLali9pmwYLi1Sr9sCxkYKCPRHxIKW03e/0Vre6Kwn9XUUvAWMkyuHmtqtuJjs3EkBAKlHvQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\EysanGuc\\source\\repos\\ECommerce\\ECommerce.Data.DAL\\ECommerce.Data.DAL.csproj",
   "expectedPackageFiles": [
@@ -66,7 +66,7 @@
     "C:\\Users\\EysanGuc\\.nuget\\packages\\system.collections.nongeneric\\4.3.0\\system.collections.nongeneric.4.3.0.nupkg.sha512",
     "C:\\Users\\EysanGuc\\.nuget\\packages\\system.collections.specialized\\4.3.0\\system.collections.specialized.4.3.0.nupkg.sha512",
     "C:\\Users\\EysanGuc\\.nuget\\packages\\system.componentmodel\\4.3.0\\system.componentmodel.4.3.0.nupkg.sha512",
-    "C:\\Users\\EysanGuc\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512",
+    "C:\\Users\\EysanGuc\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\EysanGuc\\.nuget\\packages\\system.componentmodel.primitives\\4.3.0\\system.componentmodel.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\EysanGuc\\.nuget\\packages\\system.componentmodel.typeconverter\\4.3.0\\system.componentmodel.typeconverter.4.3.0.nupkg.sha512",
     "C:\\Users\\EysanGuc\\.nuget\\packages\\system.configuration.configurationmanager\\4.5.0\\system.configuration.configurationmanager.4.5.0.nupkg.sha512",

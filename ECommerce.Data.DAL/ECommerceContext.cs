@@ -18,9 +18,6 @@ namespace ECommerce.Data.DAL
         }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<ApplicationUser>().HasOne(navigationExpression: p => p.Token)
-                .WithOne(navigationExpression: t => t.ApplicationUser)
-                .HasForeignKey<Token>(p=>p.ApplicationUserId);
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
             base.OnModelCreating(modelBuilder);
         }

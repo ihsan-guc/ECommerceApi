@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eUJzAeZ+qy4DEpoIVQRE+vQ9JtKip1xoPleP9QnjE/W2jVeBO4Y9ne/lfETNvesNS/Vy8rmw3aGIfpqo/O0qzw==",
+  "dgSpecHash": "9r2oKCEsgTfMIo4ErQoeg/FagKhkY6OSSXnztRPreSvSBOX3hfywDLmjUc5g5tXYw2os1S5C9go77HJNZ3JF/g==",
   "success": true,
   "projectFilePath": "C:\\Users\\EysanGuc\\source\\repos\\ECommerce\\ECommerce.Data.Domain\\ECommerce.Data.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\EysanGuc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\EysanGuc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\EysanGuc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\EysanGuc\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }

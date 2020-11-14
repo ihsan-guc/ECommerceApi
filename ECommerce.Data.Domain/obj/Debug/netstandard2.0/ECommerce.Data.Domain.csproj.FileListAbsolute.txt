@@ -4,6 +4,6 @@ C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\bin\Debug\netstan
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\obj\Debug\netstandard2.0\ECommerce.Data.Domain.csprojAssemblyReference.cache
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\obj\Debug\netstandard2.0\ECommerce.Data.Domain.AssemblyInfoInputs.cache
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\obj\Debug\netstandard2.0\ECommerce.Data.Domain.AssemblyInfo.cs
-C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\obj\Debug\netstandard2.0\ECommerce.Data.Domain.csproj.CoreCompileInputs.cache
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\obj\Debug\netstandard2.0\ECommerce.Data.Domain.dll
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\obj\Debug\netstandard2.0\ECommerce.Data.Domain.pdb
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Data.Domain\obj\Debug\netstandard2.0\ECommerce.Data.Domain.csproj.CoreCompileInputs.cache

@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ECommerce.Data.Domain.Entities
 {
     public class ApplicationUser : BaseGuidEntity
     {
-        public Guid TokenId { get; set; }
+        public int TokenId { get; set; }
         public string UserName { get; set; }
         public string Email { get; set; }
         public string FirstName { get; set; }
