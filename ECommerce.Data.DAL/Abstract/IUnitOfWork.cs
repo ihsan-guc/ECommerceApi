@@ -6,6 +6,8 @@ namespace ECommerce.Data.DAL.Abstract
     {
         IApplicationUserRepository ApplicationUserRepository { get; set;}
         ITokenRepository TokenRepository{ get; set ;}
+        IBookRepository BookRepository { get; set; }
+        IBookCategoryRepository BookCategoryRepository { get; set; }
         void Commit();
     }
 }

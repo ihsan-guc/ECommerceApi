@@ -33,7 +33,6 @@ C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\obj\Debug\netcoreapp3.1\E
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\obj\Debug\netcoreapp3.1\ECommerce.Api.RazorTargetAssemblyInfo.cache
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\bin\Debug\netcoreapp3.1\ECommerce.Api.exe
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\bin\Debug\netcoreapp3.1\ECommerce.Api.deps.json
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\bin\Debug\netcoreapp3.1\ECommerce.Api.runtimeconfig.json
@@ -91,3 +90,4 @@ C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\obj\Debug\netcoreapp3.1\E
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\obj\Debug\netcoreapp3.1\ECommerce.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\obj\Debug\netcoreapp3.1\ECommerce.Api.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\EysanGuc\source\repos\ECommerce\ECommerce.Api\obj\Debug\netcoreapp3.1\scopedcss\bundle\ECommerce.Api.styles.css

@@ -27,6 +27,8 @@ namespace ECommerce.Api
             services.AddScoped<ITokenGenerator, TokenGenerator>();
             services.AddScoped <IUploadFile, UploadFile>();
             services.AddScoped<IApplicationUserRepository, ApplicationUserRepository>();
+            services.AddScoped<IBookCategoryRepository, BookCategoryRepository>();
+            services.AddScoped<IBookRepository, BookRepository>();
             services.AddScoped<ITokenRepository, TokenRepository>();
             //services.AddDbContext<EmotiContext>(opt => opt.UseSqlServer(emotiDB));
 

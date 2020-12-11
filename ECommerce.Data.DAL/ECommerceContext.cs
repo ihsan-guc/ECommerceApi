@@ -10,8 +10,10 @@ namespace ECommerce.Data.DAL
         {
 
         }
-        public DbSet<ApplicationUser> ApplicationUsers{ get; set; }
-        public DbSet<Token> Tokens{ get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers { get; set; }
+        public DbSet<Token> Tokens { get; set; }
+        public DbSet<Book> Books { get; set; }
+        public DbSet<BookCategory> BookCategories { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);

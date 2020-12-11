@@ -38,6 +38,7 @@ namespace ECommerce.Api.Controllers
                     Id = UnitOfWork.ApplicationUserRepository.ApplicationUserCount() + 1
                 };
 
+
                 var token = new Token()
                 {
                     Id = UnitOfWork.ApplicationUserRepository.ApplicationUserCount() + 1 ,
